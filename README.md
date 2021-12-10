@@ -49,3 +49,14 @@ P(c|x) = P(Yes|Sunny) = P(Sunny|Yes)* P(Yes) / P(Sunny) = (0.3 x 0.71) /0.36  = 
 <br />
 Similarly Likelihood of ‘No’ given ‘Sunny‘ is:
 P(c|x) = P(No|Sunny) = P(Sunny|No)* P(No) / P(Sunny) = (0.4 x 0.36) /0.36  = 0.40 <br />
+
+Now, in the same way, we need to create the Likelihood Table for other attributes as well.
+
+### Suppose we have a Day with the following values :
+<br />
+Outlook   =  Rain <br />
+Humidity   =  High <br />
+Wind  =  Weak <br />
+Play =?
+<br />
+Likelihood of ‘Yes’ on that Day = P(Outlook = Rain|Yes)*P(Humidity= High|Yes)* P(Wind= Weak|Yes)*P(Yes)
