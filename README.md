@@ -37,3 +37,7 @@ Our Data, which comprises of the Day, Outlook, Humidity, Wind Conditions and the
 First, we will create a frequency table using each attribute of the dataset.
 
 ![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/e34b3a56c4282761e783f2bf91c2b03f59fdf071/Frequency%20table.png)
+
+For each frequency table, we will generate a likelihood table.
+
+![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/5986fd11d92c8ce8d2696382217cc85acdcd7522/likelihood.png)
