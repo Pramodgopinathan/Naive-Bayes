@@ -28,3 +28,7 @@ P(King|Face) = P(Face|King) * P(King) / P (Face) <br />
 Now, putting all the values in the Bayes Equation we get the result as 1/3
 
 
+## Navie Bayes
+
+Our Data, which comprises of the Day, Outlook, Humidity, Wind Conditions and the final column being Play, which we have to predict.
+
