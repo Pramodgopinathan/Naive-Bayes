@@ -32,3 +32,6 @@ Now, putting all the values in the Bayes Equation we get the result as 1/3
 
 Our Data, which comprises of the Day, Outlook, Humidity, Wind Conditions and the final column being Play, which we have to predict.
 
+![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/3c9559c69ed81c97b83916f389cf4f2167fc3b32/Dataset.png)
+
+First, we will create a frequency table using each attribute of the dataset.
