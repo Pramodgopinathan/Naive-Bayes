@@ -60,3 +60,5 @@ Wind  =  Weak <br />
 Play =?
 <br />
 Likelihood of ‘Yes’ on that Day = P(Outlook = Rain|Yes)*P(Humidity= High|Yes)* P(Wind= Weak|Yes)*P(Yes)
+<br />
+Calculating likelihood for each attributes will gives if probability is for playing or not
