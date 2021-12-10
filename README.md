@@ -9,6 +9,10 @@ The Naive Bayes classifier assumes that the presence of a feature in a class is 
 ## Bayes Theorem 
 We have a Deck of Cards to find out the “Probability of the Card we picked at random to be a King given that it is a Face Card“. First, we need to find out the probability
 <br />
+
+![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/8be41914ab4713eb7c5056c65a4d5691e2cdab65/Face%20Card.jpg)
+
+
 P(King) which is 4/52 as there are 4 Kings in a Deck of Cards. <br />
 P(Face|King) is equal to 1 as all the Kings are face Cards. <br />
 P(Face) is equal to 12/52 as there are 3 Face Cards in a Suit of 13 cards and there are 4 Suits in total. <br />
