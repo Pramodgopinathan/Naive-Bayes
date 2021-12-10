@@ -47,5 +47,5 @@ P(c|x) = P(Yes|Sunny) = P(Sunny|Yes)* P(Yes) / P(Sunny) = (0.3 x 0.71) /0.36  = 
 
  
 <br />
-Similarly Likelihood of ‘No’ given ‘Sunny‘ is: <br />
+Similarly Likelihood of ‘No’ given ‘Sunny‘ is:
 P(c|x) = P(No|Sunny) = P(Sunny|No)* P(No) / P(Sunny) = (0.4 x 0.36) /0.36  = 0.40 <br />
