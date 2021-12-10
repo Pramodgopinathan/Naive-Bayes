@@ -62,3 +62,8 @@ Play =?
 Likelihood of ‘Yes’ on that Day = P(Outlook = Rain|Yes)*P(Humidity= High|Yes)* P(Wind= Weak|Yes)*P(Yes)
 <br />
 Calculating likelihood for each attributes will gives if probability is for playing or not
+
+### Python Code
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Pramodgopinathan/Naive-Bayes/blob/main/Naive_Bayes.ipynb]
+
