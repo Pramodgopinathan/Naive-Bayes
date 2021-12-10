@@ -1,5 +1,5 @@
 ## Abstract
-Naive Bayes is among one of the most simple and powerful algorithms for classification based on Bayes Theorem. Naive Bayes model is easy to build and particularly useful for very large data sets. There are two parts to this algorithm: <br />
+Naive Bayes is among one of the simple algorithms for classification based on Bayes Theorem. Naive Bayes model is easy to build and particularly useful for very large data sets. There are two parts to this algorithm: <br />
 
 Naive<br />
 Bayes<br />
