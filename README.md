@@ -35,3 +35,5 @@ Our Data, which comprises of the Day, Outlook, Humidity, Wind Conditions and the
 ![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/3c9559c69ed81c97b83916f389cf4f2167fc3b32/Dataset.png)
 
 First, we will create a frequency table using each attribute of the dataset.
+
+![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/e34b3a56c4282761e783f2bf91c2b03f59fdf071/Frequency%20table.png)
