@@ -41,3 +41,11 @@ First, we will create a frequency table using each attribute of the dataset.
 For each frequency table, we will generate a likelihood table.
 
 ![](https://github.com/Pramodgopinathan/Naive-Bayes/blob/5986fd11d92c8ce8d2696382217cc85acdcd7522/likelihood.png)
+
+Likelihood of ‘Yes’ given ‘Sunny‘ is:
+P(c|x) = P(Yes|Sunny) = P(Sunny|Yes)* P(Yes) / P(Sunny) = (0.3 x 0.71) /0.36  = 0.591
+
+ 
+<br />
+Similarly Likelihood of ‘No’ given ‘Sunny‘ is: <br />
+P(c|x) = P(No|Sunny) = P(Sunny|No)* P(No) / P(Sunny) = (0.4 x 0.36) /0.36  = 0.40 <br />
