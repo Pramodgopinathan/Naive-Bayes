@@ -14,7 +14,7 @@ We have a Deck of Cards to find out the “Probability of the Card we picked at 
 
 
 P(King) which is 4/52 as there are 4 Kings in a Deck of Cards. <br />
-P(Face|King) is equal to 1 as all the Kings are face Cards. <br />
+P(Face|King) is equal to 1 as all the Kings are face Cards. (Probability of Face given King) <br />
 P(Face) is equal to 12/52 as there are 3 Face Cards in a Suit of 13 cards and there are 4 Suits in total. <br />
 
 P(King) = 4/52 = 1/13 <br />
