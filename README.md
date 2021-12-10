@@ -65,15 +65,15 @@ Likelihood of ‘Yes’ on that Day = P(Outlook = Rain|Yes)*P(Humidity= High|Yes
 
 Calculating likelihood for each attributes will gives playing or not
 
-### Where?
+### Conclusion?
 Naive Bayes classifiers are a popular used for e-mail filtering. They typically use a bag of words features to identify spam e-mail, an approach commonly used in text classification. Naive Bayes classifiers work by correlating the use of tokens (typically words, or sometimes other things), with a spam and non-spam e-mails and then using Bayes theorem to calculate a probability that an email is or is not spam.
 
-benefits: <br />
+### Benefits: <br />
 It is simple and easy to implement
 It handles both continuous and discrete data
 It is fast and can be used to make real-time predictions
  <br />
-Disadvantages: <br />
+#### Disadvantages: <br />
 Naive Bayes assumes that all predictors (or features) are independent, rarely happening in real life. This limits the applicability of this algorithm in real-world use cases.
 
 ### Python Code
